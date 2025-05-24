@@ -447,7 +447,7 @@ enum {
 	#define PIN_BUTTON_2      18    // button 2
 	#define PIN_BUTTON_3      10    // button 3
 
-	#define PIN_FREE_LIST       {5,6,7,8,9,11,12,13,16,19,20,21,23,25,26}  // free GPIO pins
+	#define PIN_FREE_LIST       {5,6,7,8,9,10,11,12,13,16,18,19,20,21,23,24,25,26}  // free GPIO pins
 	#define ETHER_BUFFER_SIZE   16384
 
 	#define SDA 0
